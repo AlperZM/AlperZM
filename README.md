@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlperZM
-- 👀 I’m interested in HTML, CSS, javaScript, Wordpress
+- 👀 I’m interested in HTML, CSS, javaScript, Wordpress, flutter
 - 🌱 I’m currently learning fullstack web dev.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
